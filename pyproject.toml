@@ -1,0 +1,7 @@
+[project]
+name = "sparta-project-3-team11"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
